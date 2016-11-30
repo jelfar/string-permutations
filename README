@@ -1,0 +1,4 @@
+# string-permutations
+
+Recursively gets string permutations through both lexicographic and
+minimum change algorithms.
